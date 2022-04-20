@@ -1,0 +1,25 @@
+body{
+    font-family: "Arial" ;
+    font-style: normal;
+    font-size: 14px;
+    font-variant: small-caps;
+    text-align: left;
+}
+h1{
+    color: blue;
+    background-color: aquamarine;
+    }   
+
+span{
+    height: 20px;
+    width: 20px;
+    background:#ff0000;
+}
+
+div{
+    height: 200px;
+    line-height:100px;
+    width: 45%;
+    background: rgba(196, 20, 172, 0.5)
+}
+
